@@ -1,1 +1,2 @@
-# Github-profile-analyzer
+# Github-Profile-Analyzer
+Using jQuery 
