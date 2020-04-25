@@ -1,1 +1,1 @@
-# Github-profile-analyzer-
+# Github-profile-analyzer
